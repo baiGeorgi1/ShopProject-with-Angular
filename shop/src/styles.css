@@ -1,0 +1,13 @@
+/* @import "~bootstrap/dist/css/bootstrap.css"; */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css");
+@import url("./styles/base/reset.css");
+@import url("./styles/base/typograpy.css");
+@import url("./styles/inherit/bootstrap.min.css");
+@import url("./styles/inherit/custom.css");
+/* @import url("./styles/inherit/fontawesome.css"); */
+/* @import url("./styles/inherit/fontawesome.min.css"); */
+/* @import url("./styles/inherit/slick-theme.css"); */
+/* @import url("./styles/inherit/slick-theme.min.css"); */
+@import url("./styles/inherit/slick.min.css");
+@import url("./styles/inherit/templatemo.css");
+@import url("./styles/inherit/templatemo.min.css");
